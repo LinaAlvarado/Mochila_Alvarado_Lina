@@ -1,0 +1,20 @@
+● ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+
+Debido a la variedad de SO y las características únicas que tienen (sistema de archivos, hardware específicos), los 
+lenguajes de programación se adaptan a esas características especificas, eso es lo que hace que ciertos lenguajes funcionen en Windows, pero no en un SO como macOs. 
+Para explicar lo anterior, hay 2 ejemplos:
+
+1. PowerShell: Desarrollado por Microsoft para administrar y automatizar tareas en el sistema operativo Windows. Aunque se puede ejecutar no es tan ampliamente utilizado en sistemas operativos basados en Unix como Linux y macOS, debido a que su diseño y características están específicamente orientados hacia la administración de Windows y a la interacción con las herramientas y servicios de Microsoft.
+
+2. Swift: Desarrollado por Apple para el desarrollo de aplicaciones en sus sistemas operativos macOS, iOS, watchOS y tvOS. No se utiliza ampliamente en otros sistemas operativos debido a su enfoque en las plataformas de Apple y la falta de una base de bibliotecas y herramientas bien establecida para otros sistemas operativos.
+
+
+● ¿Qué tipo de máquina virtual es virtualBox?.
+Es una máquina virtual de sistema, ya que emula un SO completo.
+
+● Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+No se rompe, Esto se debe a que las máquinas virtuales se ejecutan de forma aislada y separada unas de otras, con su propio sistema operativo y recursos virtuales.
+
+● Subir este archivo a la mochila del viajero.

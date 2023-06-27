@@ -1,0 +1,25 @@
+Crear repositorio
+
+git init // crea el repo
+git remote add origin http://... //apunta al repo remoto (en github)
+
+Subir cambios
+
+git add. //agrega todos los archivos
+git commit -m "mensaje" // commitea los cambios hechos
+git push origin (master/main) // envia los cambios al repo remoto
+git status // realiza un seguimiento de los estados de los archivos
+
+Descargar cambios
+git pull // baja los cambios del repo remoto
+
+Ver commits
+git log
+git log --online // ver cominst
+git checkout + numero del commit // cambia el commit
+
+Ramas
+git checkout -b “creo y cambio de rama”
+git branch “crea una rama”
+git checkout “cambio de rama”
+git merge A  "rama a mergear" -> (debo estar parado en la otra rama (B) a la cual quiero unir la rama A)

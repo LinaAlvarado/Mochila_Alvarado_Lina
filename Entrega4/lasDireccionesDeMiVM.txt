@@ -1,0 +1,4 @@
+MAC de mi VM
+ HWaddr 08:00:27:0c:be:f0  
+Ip de mi VM
+ inet addr:192.168.1.17 
